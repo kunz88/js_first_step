@@ -4,4 +4,4 @@ function reverseString(inputString) {
 }
 
 var reversedString = reverseString("hello - or hello mum!");
-console.log(reversedString); 
+console.log(reversedString);    
